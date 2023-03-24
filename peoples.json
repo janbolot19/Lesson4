@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Jax",
+        "age": 23,
+        "url": "img.icon-js.png"
+    },
+    {
+        "name": "Alex",
+        "age": 26,
+        "url": "img.icon-js.png"
+    },
+    {
+        "name": "John",
+        "age": 30,
+        "url": "img.icon-js.png"
+    }
+]
